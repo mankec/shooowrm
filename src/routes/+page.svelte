@@ -11,7 +11,10 @@
       <p class="py-6">
         This here is a tribute to one and only, Zercher squat.
       </p>
-      <button class="btn bg-gray-600 hover:bg-gray-800">Get familiar with Zercher squat</button>
+      <a
+        href="/about"
+        class="btn bg-gray-600 hover:bg-gray-800">Get familiar with Zercher squat
+      </a>
     </div>
   </div>
 </div>

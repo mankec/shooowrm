@@ -20,7 +20,7 @@ To recreate this project with the same configuration:
 
 ```sh
 # recreate this project
-bun x sv@0.12.7 create --template library --types ts --add tailwindcss="plugins:typography,forms" sveltekit-adapter="adapter:vercel" devtools-json --install bun shooowrm
+bun x sv@0.12.7 create --template library --types ts --add tailwindcss="plugins:typography,forms" sveltekit-adapter="adapter:vercel" devtools-json --install bun zercher-squat-tribute
 ```
 
 ## Developing

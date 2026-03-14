@@ -1,7 +1,3 @@
-<script>
-  import Navbar from "$lib/components/Navbar.svelte";
-</script>
-
 <div class="hero bg-base-200 min-h-screen">
   <div class="hero-content text-center">
     <div class="max-w-md">
